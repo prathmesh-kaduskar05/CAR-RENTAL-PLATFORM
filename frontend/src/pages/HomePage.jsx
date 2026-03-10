@@ -6,6 +6,8 @@ import CarModel from '../components/CarModel.jsx';
 import CarNotFound from '../components/CarNotFound.jsx';
 import { LoaderIcon, FilterIcon, CalendarIcon, MapPinIcon } from 'lucide-react';
 
+  // Car Rental Project
+
 const HomePage = () => {
   const [cars, setCars] = useState([])
   const [loading, setLoading] = useState(true)
