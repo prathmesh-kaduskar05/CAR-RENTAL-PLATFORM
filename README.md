@@ -29,24 +29,24 @@ This project follows a modern **monorepo structure** with separate `frontend` an
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/home-page.png" width="400" alt="Home Page"/>
+      <img  src="https://github.com/user-attachments/assets/eccaeeff-45a1-4f4e-a878-a22844f04d2d" width="400" alt="Home Page"/>
       <br/>
       <b>🏠 Home Page</b>
     </td>
     <td align="center">
-      <img src="screenshots/car-listing.png" width="400" alt="Car Listings"/>
+      <img  src="https://github.com/user-attachments/assets/6e1b16db-8b87-405f-8635-97b88e8a6c33"  width="400" alt="Car Listings"/>
       <br/>
       <b>🚗 Car Listings</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/car-detail.png" width="400" alt="Car Detail Page"/>
+      <img  src="https://github.com/user-attachments/assets/3495b3d3-4c83-4e80-b666-dbecf3537cf0" width="400" alt="Car Detail Page"/>
       <br/>
       <b>🔍 Car Detail Page</b>
     </td>
     <td align="center">
-      <img src="screenshots/create-car.png" width="400" alt="Create Car Page"/>
+      <img src="https://github.com/user-attachments/assets/70854deb-4f0e-4af9-8f6c-f2712463891a" width="400" alt="Create Car Page"/>
       <br/>
       <b>➕ Create Car Page</b>
     </td>
@@ -197,5 +197,5 @@ Here are the planned features and improvements for upcoming versions:
 - [ ] CI/CD pipeline with GitHub Actions
 
 ---
-
 <p align="center">Made with ❤️ by Prathmesh Kaduskar</p>
+
