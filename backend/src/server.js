@@ -15,7 +15,7 @@ app.use(cors());
 app.use(express.json());
 
 // Routes
-app.use('/api/cars', carRoutes); 
+app.use('/cars', carRoutes); 
 
 app.get('/', (req, res)=> res.send("Server is Running on PORT : 3000"))
 
